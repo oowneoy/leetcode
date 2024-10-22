@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oowneoy/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/oowneoy/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oowneoy/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
