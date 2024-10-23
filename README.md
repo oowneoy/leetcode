@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/oowneoy/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/oowneoy/leetcode/tree/master/0739-daily-temperatures) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
