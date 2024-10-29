@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/oowneoy/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/oowneoy/leetcode/tree/master/0739-daily-temperatures) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1582-design-browser-history](https://github.com/oowneoy/leetcode/tree/master/1582-design-browser-history) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -53,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
 |  |
