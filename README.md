@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/oowneoy/leetcode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oowneoy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/oowneoy/leetcode/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/oowneoy/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/oowneoy/leetcode/tree/master/1582-design-browser-history) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/oowneoy/leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
