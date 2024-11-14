@@ -1,36 +1,26 @@
-import java.math.BigInteger;
-
 class Solution {
     public String addBinary(String a, String b) {
-        BigInteger aDecimalValue = getDecimalValueFromBinaryString(a);
-        BigInteger bDecimalValue = getDecimalValueFromBinaryString(b);
+        StringBuilder stringBuilder = new StringBuilder();
+        int i = a.length() - 1;
+        int j = b.length() - 1;
+        int carry = 0;
 
-        BigInteger cDecimalValue = aDecimalValue.add(bDecimalValue);
-        if(BigInteger.ZERO.equals(cDecimalValue)) return "0";
-        Stack<BigInteger> stack = new Stack<>();
-        while (!BigInteger.ZERO.equals(cDecimalValue.divide(BigInteger.TWO))) {
-            stack.push(cDecimalValue.mod(BigInteger.TWO));
-            cDecimalValue = cDecimalValue.divide(BigInteger.TWO);
-        }
-        if(BigInteger.ONE.equals(cDecimalValue)) {
-            stack.push(BigInteger.ONE);
-        }
-
-        String result = String.valueOf(stack.pop());
-        while(!stack.isEmpty()) {
-            result = result.concat(String.valueOf(stack.pop()));
-        }
-        return result;
-    }
-
-    private BigInteger getDecimalValueFromBinaryString(String binaryString) {
-        char[] charArray = binaryString.toCharArray();
-        BigInteger value = charArray[charArray.length - 1] == '0' ? BigInteger.ZERO : BigInteger.ONE;
-        for(int i = charArray.length - 2; i >= 0; i--) {
-            if (charArray[i] == '1') {
-                value = value.add(BigInteger.TWO.pow(charArray.length - 1 - i));
+        while (i >= 0 || j >= 0 || carry != 0) {
+            int sum = carry;
+            if (i >= 0) {
+                sum += a.charAt(i) - '0';
+                i--;
             }
+
+            if (j >= 0) {
+                sum += b.charAt(j) - '0';
+                j--;
+            }
+
+            stringBuilder.append(sum % 2);
+            carry = sum / 2;
         }
-        return value;
+
+        return stringBuilder.reverse().toString();
     }
 }
