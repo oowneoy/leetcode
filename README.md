@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/oowneoy/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/oowneoy/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/oowneoy/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/oowneoy/leetcode/tree/master/0067-add-binary) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/oowneoy/leetcode/tree/master/0002-add-two-numbers) |
 | [1582-design-browser-history](https://github.com/oowneoy/leetcode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/oowneoy/leetcode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/oowneoy/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
