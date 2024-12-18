@@ -22,7 +22,7 @@ class Solution {
     }
 
     private boolean isLetter(char c) {
-        return Character.isLetterOrDigit(c);
+        return (c >= 48 && c <= 57) || (c >= 97 && c <= 122) || (c >= 65 && c <= 90);
     }
 
     private char toLowerCase(char c) {
