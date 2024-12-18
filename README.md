@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/oowneoy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/oowneoy/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/oowneoy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/oowneoy/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/oowneoy/leetcode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/oowneoy/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/oowneoy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/oowneoy/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/oowneoy/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
